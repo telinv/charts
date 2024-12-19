@@ -50,12 +50,12 @@ const chart = Highcharts.chart('container', {
     },
     yAxis: {
         title: {
-            text: ''
+            text: '',
         }
     },
     xAxis: {
         accessibility: {
-            rangeDescription: 'Range: 2010 to 2022'
+            rangeDescription: 'Range: last week to today'
         }
     },
     legend: {

@@ -1,3 +1,6 @@
+body{
+    display: flex;
+}
 table,
 td {
   border: 1px solid #000;
